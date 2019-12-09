@@ -1,0 +1,58 @@
+Clear the terminal screen:
+clear
+See the location of the pointer:
+pwd
+Show contents of folder:
+ls
+Move up:
+cd ..
+Move to specefic folder:
+cd folderName
+Move ot root:
+cd /
+Show all files(also hidden):
+ls -a
+See all files also details:
+ls -l
+make a new directory:
+asif directoryName
+For delete:
+rm -r directoryName 
+rm nameOfFile   
+rmdir directoryName
+make a file:
+touch f.txt
+Open with an editor:
+code f.txtsee contents of a text file in the terminal :
+cat f.txt
+this helps when you need to look inside a small file.to see larger files use :
+less f.txt
+Renaming a file :
+mv f.txt newName
+copy a file :
+cp newName.txt copied.txt
+ocating a file/folder:
+which fileName/foldername
+see what commands you used upto 500 :
+history
+update Ubuntu :
+sudo apt-get update
+See network information :
+ifconfig
+ping a website :
+ping google.com
+see own os information :
+uname -a
+See system usage data :
+top
+See disk space :
+df
+Install software :
+sudo apt-get install Name
+Remove/uninsall :
+sudo apt-get remove Name
+Restart computer :
+sudo reboot
+Shutdown Computer : (try anyone)
+sudo shutdown -h now
+sudo poweroff
